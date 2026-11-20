@@ -10,7 +10,7 @@ Before agents, I built ML inference frameworks for Workday Financials and spent 
 - **ML inference:** created Workday's Synchronous and Asynchronous Inference Frameworks for Financials
 
 #### 📜 Patents
-- **Generative AI Assistant for a Low-Code Platform** · [US 12,792,842 B2](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12792842) (issued Nov 2026)
+- **Generative AI Assistant for a Low-Code Platform** · [US 12,792,842 B2](https://www.lens.org/lens/patent/004-775-443-957-186) (issued Nov 2026)
 
 #### 🔬 Research
 - **[Deep Manifold Traversal Background Subtraction](papers/deep-manifold-traversal-background-subtraction.pdf)** · Cornell MEng, advised by Kilian Weinberger. Reframed background subtraction for static cameras as a label-changing problem, using Deep Manifold Traversal (VGG features + MMD) to generate a scene's background directly from webcam data, then isolate the foreground. Evaluated on the AMOS webcam archive, with a time-window filter on target images that noticeably improved background quality.
