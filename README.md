@@ -29,9 +29,7 @@ Before agents, I built ML inference frameworks for Workday Financials and spent 
 
 [See all accepted issues →](https://github.com/search?q=author%3Aawg66+org%3Alangchain-ai+is%3Aissue+reason%3Acompleted&type=issues)
 
-Elsewhere:
-- **NVIDIA NeMo Guardrails:** [requested langchain-core 1.0 support, shipped in v0.19.0](https://github.com/NVIDIA-NeMo/Guardrails/issues/1409)
-- **rulesync:** [added deepagents-cli support](https://github.com/dyoshikawa/rulesync/pull/1359)
+Also added [deepagents-cli support to rulesync](https://github.com/dyoshikawa/rulesync/pull/1359).
 
 #### 📫 Find me
 [LinkedIn](https://www.linkedin.com/in/alexander-gatto-3010616b/)
